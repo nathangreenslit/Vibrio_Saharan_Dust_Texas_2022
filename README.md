@@ -26,4 +26,4 @@ This repository contains 3 data files:
 
 **3) tx_master_Daily_REPS (1).csv**
    - This master datasheet contains:
-      - Water quality (Nutrients, Dissolved Oxygen, Temperature, pH, Salinity, Chlorphyll-a, TSS), qPCR (Total Bacteria, Total Vibrio, V. vulnificus, V. parahaemolyticus,  V. cholerae, V. alginolyticus, Bacteroides (HF183), Culture (Yellow/Green colony forming units (CFU)), dust (AOD, and AOD_24h_Lag). 
+      - Water quality (Nutrients, Dissolved Oxygen, Temperature, pH, Salinity, Chlorphyll-a, TSS), qPCR (Total Bacteria, Total Vibrio, V. vulnificus, V. parahaemolyticus,  V. cholerae, V. alginolyticus, Bacteroides (HF183), Culture (Yellow/Green colony forming units (CFU)), dust (AOD, and AOD_24h_Lag) data collected during the daily time series. 
